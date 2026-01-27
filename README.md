@@ -99,15 +99,15 @@ What can I help you research?
 ## 📝 Sample Output
 
 ```text
-Topic: Careers after MSc in Computer Science – AI Applications in Europe
+--- Research Output (2026-01-27 11:52:25) ---
+Topic: Careers after MSc in Computer Science - AI Applications
 
 Summary:
-- Graduates can pursue roles such as AI Researcher, Data Scientist, and Machine Learning Engineer.
-- AI professionals are in high demand across technology, finance, healthcare, and automotive sectors.
-- Many European countries offer strong employment opportunities due to mature tech ecosystems.
-- Advanced skills in Python and AI frameworks improve employability.
-- Doctoral studies remain an option for research-focused graduates.
-- Continuous learning is essential due to rapid AI advancements.
+- A Master's degree in Computer Science with a focus on Artificial Intelligence (AI) applications can lead to various career opportunities.
+- Some potential career paths include AI Research Scientist, Machine Learning Engineer, Data Scientist, and Business Intelligence Developer.
+- AI Research Scientists design and implement AI systems, while Machine Learning Engineers develop and deploy machine learning models.
+- Data Scientists analyze and interpret complex data to inform business decisions, and Business Intelligence Developers create data visualizations and reports.
+- These careers often require a strong foundation in computer science, mathematics, and statistics, as well as programming skills in languages like Python and R.
 
 Sources:
 - General knowledge
