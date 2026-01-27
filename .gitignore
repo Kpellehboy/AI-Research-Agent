@@ -1,0 +1,12 @@
+agentenv/
+venv/
+.venv/
+.env
+
+__pycache__/
+*.pyc
+
+research_output.txt
+
+.vscode/
+.idea/
