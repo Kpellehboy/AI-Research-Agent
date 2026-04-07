@@ -1,7 +1,7 @@
 
 # AI Research Assistant using LangChain and Groq
 
-## 📌 Overview
+##  Overview
 This project is an AI-powered research assistant built with **LangChain** and **Groq LLMs**.  
 It generates **structured, academic-style research outputs** based on user queries, including a topic, concise bullet-point summaries, sources, and tools used.
 
@@ -9,7 +9,7 @@ The system intelligently decides when to rely on **general knowledge** and when 
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 - Structured research output validated using **Pydantic**
 - Academic-style bullet summaries (5–8 points)
 - Intelligent decision-making for tool usage
@@ -21,7 +21,7 @@ The system intelligently decides when to rely on **general knowledge** and when 
 
 ---
 
-## 🧠 Technologies Used
+##  Technologies Used
 - Python  
 - LangChain  
 - Groq (LLaMA 3.1)  
@@ -32,7 +32,7 @@ The system intelligently decides when to rely on **general knowledge** and when 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ```text
 ai-research-agent/
 │
@@ -46,15 +46,15 @@ ai-research-agent/
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
-### 1️⃣ Clone the Repository
+###  Clone the Repository
 
 ```bash
 git clone https://github.com/Kpellehboy/AI-Research-Agent.git
 ```
 
-### 2️⃣ (Recommended) Create Virtual Environment
+###  (Recommended) Create Virtual Environment
 
 ```bash
 python -m venv venv
@@ -62,7 +62,7 @@ venv\Scripts\activate      # Windows
 source venv/bin/activate   # macOS / Linux
 ```
 
-### 3️⃣ Install Dependencies
+###  Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -70,7 +70,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🔑 Environment Variables
+##  Environment Variables
 
 Create a `.env` file in the project root:
 
@@ -82,7 +82,7 @@ GROQ_API_KEY=your_groq_api_key_here
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ```bash
 python main.py
@@ -96,7 +96,7 @@ What can I help you research?
 
 ---
 
-## 📝 Sample Output
+##  Sample Output
 
 ```text
 --- Research Output (2026-01-27 11:52:25) ---
@@ -120,7 +120,7 @@ All outputs are automatically saved to **`research_output.txt`** with timestamps
 
 ---
 
-## 🧩 How the System Works
+##  How the System Works
 
 1. User submits a research query
 2. The system checks whether current information is required
@@ -131,7 +131,7 @@ All outputs are automatically saved to **`research_output.txt`** with timestamps
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * APA / IEEE citation formatting
 * PDF and Markdown export
@@ -142,13 +142,13 @@ All outputs are automatically saved to **`research_output.txt`** with timestamps
 
 ---
 
-## 👤 Author
+##  Author
 
 **Elijah M. Flomo,**
 Computer Science Student 
 ---
 
-## 📄 License
+## License
 
 This project is open-source and intended for educational, academic, and portfolio use.
 
